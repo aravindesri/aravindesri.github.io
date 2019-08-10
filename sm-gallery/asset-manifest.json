@@ -1,13 +1,13 @@
 {
-  "main.css": "https://aravindesri.github.io/sm-gallery/static/css/main.be9cd952.chunk.css",
-  "main.js": "https://aravindesri.github.io/sm-gallery/static/js/main.c570f357.chunk.js",
-  "main.js.map": "https://aravindesri.github.io/sm-gallery/static/js/main.c570f357.chunk.js.map",
-  "runtime~main.js": "https://aravindesri.github.io/sm-gallery/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "https://aravindesri.github.io/sm-gallery/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.395e194f.chunk.js": "https://aravindesri.github.io/sm-gallery/static/js/2.395e194f.chunk.js",
-  "static/js/2.395e194f.chunk.js.map": "https://aravindesri.github.io/sm-gallery/static/js/2.395e194f.chunk.js.map",
-  "index.html": "https://aravindesri.github.io/sm-gallery/index.html",
-  "precache-manifest.e0d1da0345e1bd53750016bba1c0116c.js": "https://aravindesri.github.io/sm-gallery/precache-manifest.e0d1da0345e1bd53750016bba1c0116c.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.be9cd952.chunk.css.map": "https://aravindesri.github.io/sm-gallery/static/css/main.be9cd952.chunk.css.map"
+  "files": {
+    "main.js": "/sm-gallery/static/js/main.d4cecb8c.chunk.js",
+    "main.js.map": "/sm-gallery/static/js/main.d4cecb8c.chunk.js.map",
+    "runtime~main.js": "/sm-gallery/static/js/runtime~main.7a3851f7.js",
+    "runtime~main.js.map": "/sm-gallery/static/js/runtime~main.7a3851f7.js.map",
+    "static/js/2.29fb441b.chunk.js": "/sm-gallery/static/js/2.29fb441b.chunk.js",
+    "static/js/2.29fb441b.chunk.js.map": "/sm-gallery/static/js/2.29fb441b.chunk.js.map",
+    "index.html": "/sm-gallery/index.html",
+    "precache-manifest.00400a0163930e8c904962cc4fd654cb.js": "/sm-gallery/precache-manifest.00400a0163930e8c904962cc4fd654cb.js",
+    "service-worker.js": "/sm-gallery/service-worker.js"
+  }
 }
